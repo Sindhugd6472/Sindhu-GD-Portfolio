@@ -1,0 +1,260 @@
+%PDF-1.4
+1 0 obj
+<< /Type /Catalog /Pages 2 0 R >>
+endobj
+2 0 obj
+<< /Type /Pages /Kids [3 0 R 5 0 R] /Count 2 >>
+endobj
+3 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 4 0 R >>
+endobj
+4 0 obj
+<< /Length 5456 >>
+stream
+BT
+/F2 15 Tf
+50 760 Td (SINDHU GOVINDAREDDY DODDAMANE) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 748 Td (Irving, TX | \(571\) 668-1746 | sindhug6472@gmail.com | linkedin.com/in/sindhu-govindareddy-doddamane-) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 736 Td (801300237 | github.com/Sindhugd6472) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 724 Td () Tj
+-50 -12 Td
+/F2 10 Tf
+50 712 Td (SUMMARY) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 700 Td (Design Verification Engineer with 2+ years of experience building UVM/SystemVerilog verification environments for digital IPs,) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 688 Td (protocols, and automation-driven regression flows. Delivered UVM components, scoreboards, coverage models, SVA assertions, and) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 676 Td (Python CI/CD automation across APB, AXI4-Lite, FIFO, and RISC-V projects. Proven impact in closing 15% coverage gaps,) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 664 Td (reducing debug turnaround by 40%, and improving nightly regression throughput by 3x.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 652 Td () Tj
+-50 -12 Td
+/F2 10 Tf
+50 640 Td (TECHNICAL SKILLS) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 628 Td (Verification: UVM agents, sequences, drivers, monitors, scoreboards, RAL, constrained-random verification, SVA, functional) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 616 Td (coverage, code coverage, verification planning, debug) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 604 Td (Protocols and IP: AMBA APB, AXI4-Lite, RISC-V, FIFO, IP verification, SoC verification exposure, CDC/RDC awareness) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 592 Td (RTL and Design: SystemVerilog, Verilog, C, synthesis fundamentals, static timing analysis, timing constraints, microarchitecture,) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 580 Td (ASIC flow) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 568 Td (Automation: Python, Tcl, Perl, GitHub Actions, regression automation, CI/CD, log parsing, coverage reporting, flow scripting) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 556 Td (EDA Tools: ModelSim/Questa, VCS, Xcelium, GTKWave, PrimeTime, Innovus, ICC2, Vivado, Cadence tools) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 544 Td () Tj
+-50 -12 Td
+/F2 10 Tf
+50 532 Td (PROFESSIONAL EXPERIENCE) Tj
+-50 -12 Td
+/F2 8.6 Tf
+50 520 Td (Synopsys | Verification Engineer - SystemVerilog / UVM | Remote, India | Jul 2022 - Oct 2023) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 508 Td (- Built and maintained UVM testbenches with agents, drivers, monitors, scoreboards, sequences, and functional coverage models) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 496 Td (for 5+ digital IP blocks.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 484 Td (- Closed a 15% functional coverage gap by developing targeted covergroups, SVA assertions, and constrained-random stimulus for) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 472 Td (corner-case scenarios.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 460 Td (- Reduced debug turnaround by 40% using transaction-level logging, self-checking scoreboards, waveform analysis, and automated) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 448 Td (failure triage.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 436 Td (- Improved nightly regression throughput by 3x with Python automation for test execution, log parsing, coverage reporting, and) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 424 Td (dashboard generation.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 412 Td (- Verified APB, AXI4-Lite, FIFO, and RISC-V related components using directed tests, constrained-random tests, assertions, and) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 400 Td (scoreboard-based checking.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 388 Td () Tj
+-50 -12 Td
+/F2 8.6 Tf
+50 376 Td (Maverick Semiconductor Pvt. Ltd. | Design and Verification Engineer Intern | Bangalore, India | Jul 2021 - Dec 2021) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 364 Td (- Developed directed and constrained-random test scenarios for 3 RTL designs, achieving up to 97% functional coverage.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 352 Td (- Built SystemVerilog testbench components including stimulus generators, monitors, checkers, and coverage models for RTL) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 340 Td (validation.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 328 Td (- Debugged 10+ timing, logic, reset, and integration issues using waveform analysis, root-cause investigation, and simulation) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 316 Td (failure triage.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 304 Td () Tj
+-50 -12 Td
+/F2 10 Tf
+50 292 Td (KEY PROJECTS) Tj
+-50 -12 Td
+/F2 8.6 Tf
+50 280 Td (DV Regression Pipeline - Design-Agnostic CI/CD | github.com/Sindhugd6472/dv-regression-pipeline) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 268 Td (- Built a reusable GitHub Actions CI/CD pipeline to auto-compile, simulate, and publish live HTML coverage dashboards for) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 256 Td (parameterized RTL designs.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 244 Td (- Integrated Python log parsing, coverage extraction, and structured pass/fail reports; achieved 98%+ functional coverage on FIFO and) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 232 Td (Counter designs across reset, overflow, underflow, load, and concurrent-access tests.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 220 Td () Tj
+-50 -12 Td
+/F2 8.6 Tf
+50 208 Td (AXI4-Lite UVM Verification Environment | github.com/Sindhugd6472/axi4-lite-uvm) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 196 Td (- Built a complete AXI4-Lite UVM environment with driver, monitor, scoreboard, coverage collector, and transaction-level memory model) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 184 Td (for slave verification.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 172 Td (- Validated OKAY and SLVERR responses, address decode behavior, back-to-back transfers, error-injection scenarios, write/read channel) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 160 Td (ordering, and memory-model consistency through directed and constrained-random tests.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 148 Td () Tj
+-50 -12 Td
+/F2 8.6 Tf
+50 136 Td (UVM RAL Register Verification - APB Protocol | github.com/Sindhugd6472/apb-uvm-ral) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 124 Td (- Built an APB UVM RAL environment with adapter, register model, predictor, scoreboard, and coverage infrastructure for register access) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 112 Td (validation.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 100 Td (- Reached 98%+ coverage through walking-1s, read-modify-write, reset-value, backdoor/frontdoor, and constrained-random register) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 88 Td (scenarios; verified mirrored values, field access behavior, and APB read/write responses.) Tj
+-50 -12 Td
+ET
+endstream
+endobj
+5 0 obj
+<< /Type /Page /Parent 2 0 R /MediaBox [0 0 612 792] /Resources << /Font << /F1 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica >> /F2 << /Type /Font /Subtype /Type1 /BaseFont /Helvetica-Bold >> >> >> /Contents 6 0 R >>
+endobj
+6 0 obj
+<< /Length 2329 >>
+stream
+BT
+/F1 8.2 Tf
+50 760 Td () Tj
+-50 -12 Td
+/F2 8.6 Tf
+50 748 Td (RISC-V Processor Core - Scoreboard-Driven Verification) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 736 Td (- Developed UVM agents, monitors, and pipeline-aware scoreboards for RISC-V instruction/data interfaces with checking for instruction) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 724 Td (flow and datapath behavior.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 712 Td (- Targeted stalls, forwarding paths, exceptions, branch/control hazards, and load-use scenarios using random stimulus, directed tests, and) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 700 Td (coverage models.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 688 Td (- Added coverage points for instruction classes, hazard conditions, and exception paths to strengthen processor-core scenario closure.) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 676 Td () Tj
+-50 -12 Td
+/F2 10 Tf
+50 664 Td (EDUCATION) Tj
+-50 -12 Td
+/F2 8.6 Tf
+50 652 Td (George Mason University | M.S., Computer Engineering | GPA: 3.6 / 4.0 | Jan 2024 - Dec 2025) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 640 Td (Coursework: Digital System Design; Computer Architecture; Hardware Accelerators for ML; STA; Logic Synthesis; VLSI Design) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 628 Td () Tj
+-50 -12 Td
+/F2 10 Tf
+50 616 Td (CERTIFICATIONS) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 604 Td (- Cadence: SystemVerilog Accelerated Verification with UVM v1.2.5) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 592 Td (- Cadence: Essential SystemVerilog for UVM v1.2.5 rev3) Tj
+-50 -12 Td
+/F1 8.2 Tf
+50 580 Td (- Static Timing Analysis Fundamentals) Tj
+-50 -12 Td
+ET
+endstream
+endobj
+xref
+0 7
+0000000000 65535 f 
+0000000009 00000 n 
+0000000058 00000 n 
+0000000127 00000 n 
+0000000365 00000 n 
+0000005873 00000 n 
+0000006111 00000 n 
+trailer
+<< /Size 7 /Root 1 0 R >>
+startxref
+8494
+%%EOF
