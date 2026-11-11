@@ -8,8 +8,8 @@ Portfolio website highlighting experience in **CPU/SoC Design Verification**, Sy
 
 | Project | What it demonstrates |
 |---|---|
-| [AXI4-Lite UVM Verification](https://github.com/Sindhugd6472/axi4-lite-uvm) | UVM agent, sequences, driver, monitor, scoreboard, functional coverage, and AXI4-Lite slave verification |
-| [APB UVM RAL](https://github.com/Sindhugd6472/apb-uvm-ral) | APB3 register DUT, read/write tests, wait states, error responses, and register verification |
+| [AXI4-Lite UVM Verification](https://github.com/Sindhugd6472/axi4-lite-uvm) | UVM testbench components and example AXI4-Lite tests; simulator pass not yet confirmed in CI |
+| [APB UVM RAL](https://github.com/Sindhugd6472/apb-uvm-ral) | APB3 register DUT and CI smoke test; separate UVM RAL sources not yet exercised by CI |
 | [AXI4-Lite SVA Demo](https://github.com/Sindhugd6472/axi4lite-sva-demo) | Assertion-based checks of AXI ready/valid handshakes, with positive and intentionally failing cases |
 | [EDA Regression Automation Toolkit](https://github.com/Sindhugd6472/dv-regression-pipeline) | Python-based regression orchestration, log parsing, JSON reports, unit tests, and CI |
 | [AI-Assisted DV Test Generator](https://github.com/Sindhugd6472/AI-DV-test-generator) | Human-reviewed verification plan generation, schema validation, Streamlit UI, export, and automated tests |
