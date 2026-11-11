@@ -342,7 +342,7 @@
           <p class="project-type">AXI4-Lite UVM</p>
           <h3>AXI4-Lite UVM Verification Environment</h3>
           <p>
-            Built a complete AXI4-Lite UVM environment with driver, monitor, scoreboard, coverage collector, and transaction-level memory model for slave verification. Validated OKAY and SLVERR responses, address decode behavior, back-to-back transfers, error-injection scenarios, write/read channel ordering, and memory-model consistency.
+            Implemented an AXI4-Lite UVM testbench with driver, monitor, scoreboard, coverage collector, and test sequences for a slave memory DUT. The repository documents a Questa/ModelSim flow; a passing UVM simulation has not yet been verified in automated CI.
           </p>
           <a href="https://github.com/Sindhugd6472/axi4-lite-uvm" target="_blank" rel="noopener">github.com/Sindhugd6472/axi4-lite-uvm</a>
         </div>
@@ -351,7 +351,7 @@
           <p class="project-type">UVM RAL</p>
           <h3>UVM RAL Register Verification — APB Protocol</h3>
           <p>
-            Built an APB UVM RAL environment with adapter, register model, predictor, scoreboard, and coverage infrastructure for register access validation. Verified walking-1s, read-modify-write, reset-value, backdoor/frontdoor, constrained-random register scenarios, mirrored values, field access behavior, and APB read/write responses.
+            Implemented an APB3 register DUT and self-checking SystemVerilog smoke tests for register readback and invalid-address errors. The repository also contains UVM/RAL register-model and test sources; its current automated CI exercises the basic smoke test, not the UVM RAL flow.
           </p>
           <a href="https://github.com/Sindhugd6472/apb-uvm-ral" target="_blank" rel="noopener">github.com/Sindhugd6472/apb-uvm-ral</a>
         </div>
